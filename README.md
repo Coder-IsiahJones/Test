@@ -1,6 +1,9 @@
 # NASA EONET API Documentation 
 Link: https://eonet.sci.gsfc.nasa.gov/docs/v2.1
 
+# Google Maps API Documentation
+Link: https://developers.google.com/maps/documentation
+
 # Dependencies 
 - Google Maps API
 - @iconify/react

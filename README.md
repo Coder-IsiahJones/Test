@@ -1,3 +1,17 @@
+# NASA EONET API Documentation 
+Link: https://eonet.sci.gsfc.nasa.gov/docs/v2.1
+
+# Dependencies 
+- Google Maps API
+- @iconify/react
+- @iconify/icons-mdi
+- google-map-react
+
+# Install
+```
+npm i google-map-react @iconify/react @iconify/icons-mdi
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
